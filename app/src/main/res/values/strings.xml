@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">week3-Caleb</string>
+    <string name="showMsg1">Mostrar Mensaje 1</string>
+    <string name="showMsg2">Mostrar Mensaje 2</string>
+    <string name="Message1">Primer Mensaje</string>
+    <string name="Message2">Segundo Mensaje</string>
+</resources>
